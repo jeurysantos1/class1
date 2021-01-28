@@ -96,16 +96,16 @@ body {
       width: 100%; }
     .main .card__perfil-img {
       position: absolute;
-      width: 14rem;
-      height: 14rem;
+      width: 18rem;
+      height: 18rem;
       top: 18%;
       right: 35%;
       border-radius: 50%;
       border: 10px solid white; }
     .main .card .consumerinfo {
       position: absolute;
-      bottom: 49%;
-      right: 32%;
+      bottom: 41%;
+      right: 30%;
       display: flex;
       flex-direction: row;
       justify-content: space-between; }
@@ -120,11 +120,11 @@ body {
       font-size: 18px;
       color: #6A6F81;
       font-weight: 400;
-      left: 5%; }
+      left: 11%; }
     .main .card .location {
       position: absolute;
-      bottom: 44%;
-      right: 45%; }
+      bottom: 36%;
+      right: 43%; }
       .main .card .location__name {
         font-family: sans-serif;
         font-size: 2rem;
