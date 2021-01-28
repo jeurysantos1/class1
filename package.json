@@ -1,0 +1,17 @@
+{
+  "name": "card",
+  "version": "1.0.0",
+  "description": "![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "jeury",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+
+    
+
+  }
+}
