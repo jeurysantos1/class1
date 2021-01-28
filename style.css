@@ -38,7 +38,7 @@ body {
     margin: 0;
     position: relative;
     background-image: linear-gradient(to right bottom, #00B6C7 80%, #2D3248 127%);
-    filter: grayscale(25%);
+    filter: grayscale(39%);
     width: 95%;
     height: 95%;
     top: 50%;
