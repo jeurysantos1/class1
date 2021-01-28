@@ -117,10 +117,10 @@ body {
           font-size: 24px; } }
     .main .card .userinfo__age {
       position: relative;
-      font-size: 1.8rem;
+      font-size: 18px;
       color: #6A6F81;
       font-weight: 400;
-      left: 11%; }
+      left: 5%; }
     .main .card .location {
       position: absolute;
       bottom: 44%;
